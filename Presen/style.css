@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(8, 1, 24);
+    color: rgb(219, 222, 224);
+    font-family: "Comic Sans", sans-serif;
+  }
+  
+  h1 {
+    color: rgb(221, 231, 231);
+    font-weight: bold;
+    margin-left: 910px;
+    margin-right: auto;
+    margin-top: 220px;
+    margin-bottom: auto;
+  }
+  p.intro{
+    margin-left: 832px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;      
+  }
+  div.input{
+    background-color: rgb(69, 238, 63);
+    color: rgb(41, 6, 80);
+    padding: 10px;
+    width: 200px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  input{
+    background-color: rgb(241, 245, 240);
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    color: rgb(41, 6, 80);
+  }
+  button.gators {
+    background-color: rgb(69, 238, 63);
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:auto;
+    color: rgb(41, 6, 80);
+  }
+  div {
+    background-color: rgb(11, 8, 235);
+    width: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(41, 6, 80);
+    padding:20px;
+  }
